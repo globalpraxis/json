@@ -1,0 +1,152 @@
+[
+  {
+    "Category": "lacteo",
+    "Envase": "carton",
+    "Product": "pascual carton"
+  },
+  {
+    "Category": "lacteo",
+    "Envase": "cristal litro",
+    "Product": "pascual vidrio"
+  },
+  {
+    "Category": "lacteo",
+    "Envase": "cristal medio litro",
+    "Product": "pascual vid mini"
+  },
+  {
+    "Category": "lacteo",
+    "Envase": "brik",
+    "Product": "pascual brik"
+  },
+  {
+    "Category": "lacteo",
+    "Envase": "plastico",
+    "Product": "pascual plastic"
+  },
+  {
+    "Category": "lacteo",
+    "Envase": "carton",
+    "Product": "puleva carton"
+  },
+  {
+    "Category": "lacteo",
+    "Envase": "cristal litro",
+    "Product": "puleva vidrio"
+  },
+  {
+    "Category": "lacteo",
+    "Envase": "cristal medio litro",
+    "Product": "puleva vid mini"
+  },
+  {
+    "Category": "lacteo",
+    "Envase": "brik",
+    "Product": "puleva brik"
+  },
+  {
+    "Category": "lacteo",
+    "Envase": "plastico",
+    "Product": "puleva plastic"
+  },
+  {
+    "Category": "soft drink",
+    "Envase": "carton",
+    "Product": "coke carton"
+  },
+  {
+    "Category": "soft drink",
+    "Envase": "cristal litro",
+    "Product": "coke vidrio"
+  },
+  {
+    "Category": "soft drink",
+    "Envase": "cristal medio litro",
+    "Product": "coke vid mini"
+  },
+  {
+    "Category": "soft drink",
+    "Envase": "brik",
+    "Product": "coke brik"
+  },
+  {
+    "Category": "soft drink",
+    "Envase": "plastico",
+    "Product": "coke plastic"
+  },
+  {
+    "Category": "soft drink",
+    "Envase": "carton",
+    "Product": "fanta carton"
+  },
+  {
+    "Category": "soft drink",
+    "Envase": "cristal litro",
+    "Product": "fanta vidrio"
+  },
+  {
+    "Category": "soft drink",
+    "Envase": "cristal medio litro",
+    "Product": "fanta vid mini"
+  },
+  {
+    "Category": "soft drink",
+    "Envase": "brik",
+    "Product": "fanta brik"
+  },
+  {
+    "Category": "soft drink",
+    "Envase": "plastico",
+    "Product": "fanta plastic"
+  },
+  {
+    "Category": "Zumo",
+    "Envase": "carton",
+    "Product": "zumosol carton"
+  },
+  {
+    "Category": "Zumo",
+    "Envase": "cristal litro",
+    "Product": "zumosol vidrio"
+  },
+  {
+    "Category": "Zumo",
+    "Envase": "cristal medio litro",
+    "Product": "zumosol vid mini"
+  },
+  {
+    "Category": "Zumo",
+    "Envase": "brik",
+    "Product": "zumosol brik"
+  },
+  {
+    "Category": "Zumo",
+    "Envase": "plastico",
+    "Product": "zumosol plastic"
+  },
+  {
+    "Category": "Zumo",
+    "Envase": "carton",
+    "Product": "don simon carton"
+  },
+  {
+    "Category": "Zumo",
+    "Envase": "cristal litro",
+    "Product": "don simon vidrio"
+  },
+  {
+    "Category": "Zumo",
+    "Envase": "cristal medio litro",
+    "Product": "don simon vid mini"
+  },
+  {
+    "Category": "Zumo",
+    "Envase": "brik",
+    "Product": "don simon brik"
+  },
+  {
+    "Category": "Zumo",
+    "Envase": "plastico",
+    "Product": "don simon plastic"
+  }
+]
